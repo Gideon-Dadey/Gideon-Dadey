@@ -1,9 +1,9 @@
 ## 🌐 Socials:
 <p>
- <a href="https://my-portfolio-website-two-phi.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Gideon-Dadey" height="30" width="40" /></a>
 <a href="https://twitter.com/Cannymirah" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Gideon-Dadey" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gideon-dadey-263128182" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gideon-Dadey" height="30" width="40" /></a>
 <a href="https://github.com/Gideon-Dadey" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="Gideon-Dadey" height="30" width="40" /></a>
+<a href="https://my-portfolio-website-two-phi.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Gideon-Dadey" height="30" width="40" /></a>
 </p>
 <br />
 
