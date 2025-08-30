@@ -1,14 +1,3 @@
-<section align="center">
-<h1 align="center">Hi<img src="Wave.gif" height="55" width="55" />, I'm Gideon-Dadey</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD00E&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;JavaScript+Programmer;React.js+Developer;Shopify+Expert" alt="Typing SVG" /></a>
-<p align="center"><img src="programiing.gif" width="400" height="250"  /></p>
-<br/>
-
-![](https://visitcount.itsvg.in/api?id=saifulemon&icon=1&color=1)
-  
-<hr />
-</section>  
-
 # 💫 About Me:
 🔭 I’m currently working on CSS Animation<br><br>🌱 I’m currently learning Next.js<br><br>💬 Ask me about HTML, CSS, JavaScript, TypeScript, React<br><br>⚡ Fun fact I go to the GYM very often
 
@@ -16,13 +5,9 @@
 
 ## 🌐 Socials:
 <p>
-<a href="https://twitter.com/Cannymirah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Cannymirah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gideon-dadey-263128182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gideon-dadey-263128182" height="30" width="40" /></a>
+<a href="https://twitter.com/Gideon-Dadey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Gideon-Dadey" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Gideon-Dadey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gideon-Dadey" height="30" width="40" /></a>
 <a href="https://github.com/Gideon-Dadey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Gideon-Dadey" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:16245892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:16245892" height="30" width="40" /></a>
-<a href="https://fb.com/dev.saifulemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dev.saifulemon" height="30" width="40" /></a>
-<a href="https://instagram.com/dev.saifulemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saiful_emon1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/saifulemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saifulemon" height="30" width="40" /></a>
 </p>
 <br />
 
@@ -33,26 +18,24 @@
 
 # 📊 GitHub Stats:
 <p align="left">
- <a href="https://github.com/saifulemon"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifulemon&theme=dark"></a>
+ <a href="https://github.com/Gideon-Dadey"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gideon-Dadey&theme=dark"></a>
 </p>
 <p align="left">
-  <a href="https://github.com/saifulemon"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saifulemon&layout=compact&theme=radical&langs_count=10&exclude_repo=Blade&hide=html" />
+  <a href="https://github.com/Gideon-Dadey"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Gideon-Dadey&layout=compact&theme=radical&langs_count=10&exclude_repo=Blade&hide=html" />
 </a>
 </p>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=saifulemon&theme=synthwave&show_icons=true" alt="saifulemon" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Gideon-Dadey&theme=synthwave&show_icons=true" alt="Gideon-Dadey" />
 
 <br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saifulemon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Gideon-Dadey&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saifulemon&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Gideon-Dadey&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
