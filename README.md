@@ -1,3 +1,14 @@
+<section align="center">
+<h1 align="center">Hi<img src="Wave.gif" height="55" width="55" />, I'm Gideon-Dadey</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD00E&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;JavaScript+Programmer;React.js+Developer;Shopify+Expert" alt="Typing SVG" /></a>
+<p align="center"><img src="programiing.gif" width="400" height="250"  /></p>
+<br/>
+
+![](https://visitcount.itsvg.in/api?id=Gideon-Dadey&icon=1&color=1)
+  
+<hr />
+</section>  
+
 # 💫 About Me:
 🔭 I’m currently working on CSS Animation<br><br>🌱 I’m currently learning Next.js<br><br>💬 Ask me about HTML, CSS, JavaScript, TypeScript, React<br><br>⚡ Fun fact I go to the GYM very often
 
@@ -5,9 +16,13 @@
 
 ## 🌐 Socials:
 <p>
-<a href="https://twitter.com/Gideon-Dadey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Gideon-Dadey" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Gideon-Dadey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gideon-Dadey" height="30" width="40" /></a>
-<a href="https://github.com/Gideon-Dadey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Gideon-Dadey" height="30" width="40" /></a>
+<a href="https://twitter.com/Gideon-Dadey" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Gideon-Dadey" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Gideon-Dadey" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gideon-Dadey" height="30" width="40" /></a>
+<a href="https://github.com/Gideon-Dadey" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="Gideon-Dadey" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:16245892" target="blank"><img align="center" src="https://img.shields.io/badge/StackOverflow-%23F48024.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="user:16245892" height="30" width="40" /></a>
+<a href="https://fb.com/dev.Gideon-Dadey" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%234CAF50.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="dev.Gideon-Dadey" height="30" width="40" /></a>
+<a href="https://instagram.com/dev.Gideon-Dadey" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Gideon-Dadey" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Gideon-Dadey" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-%23333333.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Gideon-Dadey" height="30" width="40" /></a>
 </p>
 <br />
 
@@ -37,5 +52,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Gideon-Dadey&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
