@@ -1,9 +1,9 @@
 ## 🌐 Socials:
 <p>
+ <a href="https://my-portfolio-website-two-phi.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Gideon-Dadey" height="30" width="40" /></a>
 <a href="https://twitter.com/Cannymirah" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Gideon-Dadey" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gideon-dadey-263128182" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gideon-Dadey" height="30" width="40" /></a>
 <a href="https://github.com/Gideon-Dadey" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="Gideon-Dadey" height="30" width="40" /></a>
-<a href="https://my-portfolio-website-two-phi.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Gideon-Dadey" height="30" width="40" /></a>
 </p>
 <br />
 
@@ -17,10 +17,13 @@
  <a href="https://github.com/Gideon-Dadey"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gideon-Dadey&theme=dark"></a>
 </p>
 <p align="left">
-  <a href="https://github.com/Gideon-Dadey"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Gideon-Dadey&layout=compact&theme=radical&langs_count=10&exclude_repo=Blade&hide=html" />
-</a>
+  <a href="https://github.com/Gideon-Dadey"> 
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Gideon-Dadey&layout=compact&theme=radical&langs_count=10&exclude_repo=Blade&hide=html&sort=desc" />
+  </a>
 </p>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Gideon-Dadey&theme=synthwave&show_icons=true" alt="Gideon-Dadey" />
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Gideon-Dadey&theme=synthwave&show_icons=true" alt="Gideon-Dadey" />
+</p>
 
 <br/>
 
