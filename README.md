@@ -16,8 +16,9 @@
 
 ## 🌐 Socials:
 <p>
-<a href="https://twitter.com/saifulemon20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saifulemon20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saiful-emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saiful-emon" height="30" width="40" /></a>
+<a href="https://twitter.com/Cannymirah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Cannymirah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gideon-dadey-263128182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gideon-dadey-263128182" height="30" width="40" /></a>
+<a href="https://github.com/Gideon-Dadey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Gideon-Dadey" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:16245892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:16245892" height="30" width="40" /></a>
 <a href="https://fb.com/dev.saifulemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dev.saifulemon" height="30" width="40" /></a>
 <a href="https://instagram.com/dev.saifulemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saiful_emon1" height="30" width="40" /></a>
@@ -35,7 +36,7 @@
  <a href="https://github.com/saifulemon"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifulemon&theme=dark"></a>
 </p>
 <p align="left">
-  <a href="https://github.com/saifulemon"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saifulemon&layout=compact&theme=radical" />
+  <a href="https://github.com/saifulemon"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saifulemon&layout=compact&theme=radical&langs_count=10&exclude_repo=Blade&hide=html" />
 </a>
 </p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=saifulemon&theme=synthwave&show_icons=true" alt="saifulemon" />
