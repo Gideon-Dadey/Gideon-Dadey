@@ -1,4 +1,4 @@
-## 🌐 Socials:
+## 🌐 Social Platforms:
 <p>
 <a href="https://twitter.com/Cannymirah" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Gideon-Dadey" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gideon-dadey-263128182" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gideon-Dadey" height="30" width="40" /></a>
