@@ -17,6 +17,13 @@
 <p align="left">
  <a href="https://github.com/Gideon-Dadey"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gideon-Dadey&theme=dark"></a>
 </p>
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@Gideon-Dadey">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=night-fury-3&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+
 <p align="left">
   <a href="https://github.com/Gideon-Dadey"> 
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gideon-Dadey&layout=compact&theme=radical&langs_count=10&exclude_repo=Blade&hide=html" />
