@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 
 <p align="left">
-Software Engineer specializing in TypeScript and JavaScript development. Proficient in modern web and mobile frameworks including React.js, Next.js, Node.js, and React Native. Experienced in delivering full-stack applications for both local and international clients, with expertise spanning frontend and backend development. Passionate about strengthening data structures and algorithms knowledge to create optimized, scalable solutions. Adaptable problem-solver focused on delivering innovative and impactful software.
+Software Developer specializing in TypeScript and JavaScript development. Proficient in modern web frameworks including React.js, Next.js, Node.js, and Laravel. Experienced in delivering full-stack applications for clients, with expertise spanning frontend and backend development. Passionate about strengthening data structures and algorithms knowledge to create optimized, scalable solutions. Adaptable problem-solver focused on delivering innovative and impactful software.
 </p>
 
 ## 🛠️ My Tech Stack
@@ -19,7 +19,7 @@ Software Engineer specializing in TypeScript and JavaScript development. Profici
 ## 🌟 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gideon-Dadey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gideon-Dadey&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=blueberry&hide_border=true" height="150" alt="languages graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=Gideon-Dadey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true" height="150" alt="stats graph" />
 </div>
 
@@ -30,7 +30,7 @@ Software Engineer specializing in TypeScript and JavaScript development. Profici
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gideon-Dadey&theme=nord_dark" width="100%" alt="Activity Summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gideon-Dadey&theme=nord_dark" width="100%" alt="Activity Summary" />
 </div>
 
 ## 📬 Connect With Me
