@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=5294E2&center=true&vCenter=true&random=false&width=500&lines=Hello!+I'm+Gideon+Dadey;Software+Engineer;TypeScript+%26+JavaScript+Expert;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=5294E2&center=true&vCenter=true&random=false&width=500&lines=Hello!+I'm+Gideon+Dadey;Software+Developer;TypeScript+%26+JavaScript+Expert;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
