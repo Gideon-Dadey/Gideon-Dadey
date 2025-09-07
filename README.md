@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 
 <p align="left">
-Software Developer specializing in TypeScript and JavaScript development. Proficient in modern web frameworks including React.js, Next.js, Node.js, and Laravel. Experienced in delivering full-stack applications for clients, with expertise spanning frontend and backend development. Passionate about strengthening data structures and algorithms knowledge to create optimized, scalable solutions. Adaptable problem-solver focused on delivering innovative and impactful software.
+Software Developer specializing in TypeScript and JavaScript development. Proficient in modern web frameworks including React.js, Next.js, Node.js, and Laravel. Experienced in delivering full-stack applications for clients, with expertise spanning frontend and backend development.
 </p>
 
 ## 🛠️ My Tech Stack
