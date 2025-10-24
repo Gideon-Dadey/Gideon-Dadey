@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 <p align="left">
-Full-Stack Developer with strong focus on TypeScript and JavaScript. Skilled in building scalable web applications using React.js, Next.js, Node.js, and Laravel. I combine clean design with efficient backend logic to deliver user-focused digital solutions.
+Full-Stack Developer focused on TypeScript and JavaScript. Skilled in building scalable web applications using React.js, Next.js, Node.js, and Laravel. I combine clean design with efficient backend logic to deliver user-focused digital solutions.
 </p>
 
 ---
@@ -23,9 +23,19 @@ Full-Stack Developer with strong focus on TypeScript and JavaScript. Skilled in 
 ## 🌟 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gideon-Dadey&layout=compact&theme=blueberry&hide_border=true&langs_count=10" height="150" alt="Top Languages" />
-  <br/>
-  <img src="https://github-stats-alpha.vercel.app/api?username=Gideon-Dadey&cc=0E1117&tc=37BCF6&ic=FFFFFF&bc=000000" height="150" alt="GitHub Stats" />
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Gideon-Dadey&theme=tokyonight&hide_border=true&background=0D1117&ring=37BCF6&fire=5294E2&currStreakLabel=37BCF6" height="150" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Gideon-Dadey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=37BCF6&icon_color=5294E2" height="150" alt="GitHub Stats" />
+
+  <br/><br/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gideon-Dadey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=37BCF6" height="150" alt="Top Languages" />
 </div>
 
 ---
@@ -33,11 +43,7 @@ Full-Stack Developer with strong focus on TypeScript and JavaScript. Skilled in 
 ## 📊 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gideon-Dadey&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph">
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gideon-Dadey&theme=nord_dark" width="100%" alt="Profile Summary" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gideon-Dadey&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
