@@ -23,19 +23,20 @@ Full-Stack Developer focused on TypeScript and JavaScript. Skilled in building s
 ## 🌟 GitHub Stats
 
 <div align="center">
-  
+
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Gideon-Dadey&theme=tokyonight&hide_border=true&background=0D1117&ring=37BCF6&fire=5294E2&currStreakLabel=37BCF6" height="150" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Gideon-Dadey&theme=tokyonight&hide_border=true&background=0D1117&ring=37BCF6&fire=5294E2&currStreakLabel=37BCF6" height="180" alt="GitHub Streak" />
 
   <br/><br/>
 
   <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Gideon-Dadey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=37BCF6&icon_color=5294E2" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gideon-Dadey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=37BCF6&icon_color=5294E2" height="180" alt="GitHub Stats" />
 
   <br/><br/>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gideon-Dadey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=37BCF6" height="150" alt="Top Languages" />
+  <!-- Top Languages (same height as streak stats) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gideon-Dadey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=37BCF6&langs_count=6" height="180" alt="Top Languages" />
+
 </div>
 
 ---
