@@ -15,7 +15,7 @@ Full-Stack Developer with strong focus on TypeScript and JavaScript. Skilled in 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,graphql,tailwind,aws,git,figma,vscode&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,cpp,react,nextjs,nodejs,express,mongodb,postgres,graphql,tailwind,aws,git,figma,vscode&theme=dark" alt="My Skills" />
 </div>
 
 ---
@@ -23,8 +23,9 @@ Full-Stack Developer with strong focus on TypeScript and JavaScript. Skilled in 
 ## 🌟 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gideon-Dadey&layout=compact&theme=blueberry&hide_border=true" height="150" alt="Top Languages" />
- 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gideon-Dadey&layout=compact&theme=blueberry&hide_border=true&langs_count=10" height="150" alt="Top Languages" />
+  <br/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=Gideon-Dadey&cc=0E1117&tc=37BCF6&ic=FFFFFF&bc=000000" height="150" alt="GitHub Stats" />
 </div>
 
 ---
