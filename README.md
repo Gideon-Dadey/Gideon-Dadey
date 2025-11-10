@@ -37,6 +37,11 @@ Full-Stack Developer focused on TypeScript and JavaScript. Skilled in building s
   <!-- Top Languages (same height as streak stats) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gideon-Dadey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=37BCF6&langs_count=6" height="180" alt="Top Languages" />
 
+  <br/><br/>
+
+  <!-- Manual primary language badge (quick/guaranteed visual fix) -->
+  <img src="https://img.shields.io/badge/Most%20Used-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="Primary Language" />
+
 </div>
 
 ---
