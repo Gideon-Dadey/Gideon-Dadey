@@ -14,39 +14,41 @@ Full-Stack Developer focused on TypeScript and JavaScript. Skilled in building s
 
 ## 🛠️ Tech Stack
 
+<br />
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,cpp,react,nextjs,nodejs,express,mongodb,postgres,graphql,tailwind,aws,git,figma,vscode&theme=dark" alt="My Skills" />
 </div>
 
 ---
 
-## 🌟 GitHub Stats
+ ## 🌟 GitHub Stats
+
+<br />
 
 <div align="center">
 
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Gideon-Dadey&theme=tokyonight&hide_border=true&background=0D1117&ring=37BCF6&fire=5294E2&currStreakLabel=37BCF6" height="180" alt="GitHub Streak" />
 
-  <br/><br/>
-
-  <!-- Main Stats -->
+  <!-- 📈 Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Gideon-Dadey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=37BCF6&icon_color=5294E2" height="180" alt="GitHub Stats" />
 
   <br/><br/>
 
-  <!-- Top Languages (same height as streak stats) -->
+  <!-- 💬 Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gideon-Dadey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=37BCF6&langs_count=6" height="180" alt="Top Languages" />
 
   <br/><br/>
 
-  <!-- Manual primary language badge (quick/guaranteed visual fix) -->
-  <img src="https://img.shields.io/badge/Most%20Used-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="Primary Language" />
+  <!-- 🏷️ Primary Language Badge -->
+  <img src="https://img.shields.io/badge/Most%20Used-JavaScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="Primary Language" />
 
 </div>
 
 ---
 
 ## 📊 Contribution Activity
+
+<br />
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gideon-Dadey&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
@@ -55,6 +57,8 @@ Full-Stack Developer focused on TypeScript and JavaScript. Skilled in building s
 ---
 
 ## 📬 Connect With Me
+
+<br />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gideon-dadey-263128182" target="_blank">
@@ -69,6 +73,8 @@ Full-Stack Developer focused on TypeScript and JavaScript. Skilled in building s
 </div>
 
 ---
+
+<br />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Gideon-Dadey&style=flat-square&color=blue" alt="Profile Views"/>
