@@ -1,20 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=5294E2&center=true&vCenter=true&random=false&width=500&lines=Hello!+I'm+Gideon+Dadey;Full-Stack+Developer;TypeScript+%26+JavaScript+Expert;React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=37BCF6&center=true&vCenter=true&random=false&width=500&lines=Hello!+I'm+Gideon+Dadey;Full-Stack+Developer;TypeScript+%26+JavaScript+Expert;React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20Profile!&fontSize=30&fontColor=fff&animation=fadeIn" alt="Header Wave"/>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-<p align="left">
-Full-Stack Developer focused on TypeScript and JavaScript. Skilled in building scalable web applications using React.js, Next.js, Node.js, and Laravel. I combine clean design with efficient backend logic to deliver user-focused digital solutions.
-</p>
+> I am a **Full-Stack Developer** focused on delivering clean, efficient, and scalable digital solutions.
+> My expertise lies in **TypeScript** and **JavaScript**, where I leverage modern frameworks like **React.js**, **Next.js**, and **Node.js** to build robust web applications. I am passionate about combining clean design with efficient backend logic to create user-focused experiences.
 
 ---
 
 ## 🛠️ Tech Stack
-
-<br />
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,cpp,react,nextjs,nodejs,express,mongodb,postgres,graphql,tailwind,aws,git,figma,vscode&theme=dark" alt="My Skills" />
@@ -22,59 +23,51 @@ Full-Stack Developer focused on TypeScript and JavaScript. Skilled in building s
 
 ---
 
- ## 🌟 GitHub Stats
+## 🌟 GitHub Activity & Stats
 
 <br />
 
 <div align="center">
 
+  <img src="https://github-readme-stats.vercel.app/api?username=Gideon-Dadey&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=37BCF6&icon_color=5294E2&line_height=25" height="180" alt="GitHub Stats" />
 
-  <!-- 📈 Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Gideon-Dadey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=37BCF6&icon_color=5294E2" height="180" alt="GitHub Stats" />
-
-  <br/><br/>
-
-  <!-- 💬 Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gideon-Dadey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=37BCF6&langs_count=6" height="180" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Gideon-Dadey&theme=dark&hide_border=true&background=0D1117&ring=37BCF6&fire=5294E2&stroke=0D1117" height="180" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <!-- 🏷️ Primary Language Badge -->
-  <img src="https://img.shields.io/badge/Most%20Used-JavaScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="Primary Language" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gideon-Dadey&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=37BCF6&langs_count=6" height="180" alt="Top Languages" />
+  
+  <br/><br/>
 
+  <img src="https://img.shields.io/badge/JavaScript%20%7C%20TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=232323&color=3178C6" alt="Primary Language" />
+  
 </div>
 
 ---
 
-## 📊 Contribution Activity
-
-<br />
+## 🗓️ Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gideon-Dadey&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gideon-Dadey&theme=react-dark&hide_border=true&point=37BCF6" width="100%" alt="Activity Graph" />
 </div>
 
 ---
 
 ## 📬 Connect With Me
 
-<br />
-
 <div align="center">
   <a href="https://www.linkedin.com/in/gideon-dadey-263128182" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/Cannymirah" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="Twitter" />
   </a>
   <a href="mailto:gideondadey@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Say%20Hello%20via%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
 </div>
 
 ---
-
-<br />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Gideon-Dadey&style=flat-square&color=blue" alt="Profile Views"/>
