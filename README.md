@@ -25,22 +25,33 @@
 
 ## 🌟 GitHub Activity & Stats
 
-<br />
-
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Gideon-Dadey&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=37BCF6&icon_color=5294E2&line_height=25" height="180" alt="GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gideon-Dadey&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=37BCF6&icon_color=5294E2&line_height=25"
+    height="180"
+    alt="GitHub Stats"
+  />
 
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Gideon-Dadey&theme=dark&hide_border=true&background=0D1117&ring=37BCF6&fire=5294E2&stroke=0D1117" height="180" alt="GitHub Streak" />
+  <!-- GitHub Streak (Fully Fixed Version) -->
+  
+
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Gideon-Dadey&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=37BCF6&langs_count=6"
+    height="180"
+    alt="Top Languages"
+  />
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gideon-Dadey&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=37BCF6&langs_count=6" height="180" alt="Top Languages" />
-  
-  <br/><br/>
+  <img 
+    src="https://img.shields.io/badge/JavaScript%20%7C%20TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=232323&color=3178C6" 
+    alt="Primary Language" 
+  />
 
-  <img src="https://img.shields.io/badge/JavaScript%20%7C%20TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=232323&color=3178C6" alt="Primary Language" />
-  
 </div>
 
 ---
@@ -48,7 +59,11 @@
 ## 🗓️ Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gideon-Dadey&theme=react-dark&hide_border=true&point=37BCF6" width="100%" alt="Activity Graph" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Gideon-Dadey&theme=react-dark&hide_border=true&point=37BCF6" 
+    width="100%" 
+    alt="Activity Graph" 
+  />
 </div>
 
 ---
