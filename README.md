@@ -1,24 +1,26 @@
-# Gideon Dadey
+Hi, there! I'm **Gideon Dadey** 👋
 
-## About Me
-I’m Gideon, a passionate software engineer with a wealth of experience in building robust applications. I specialize in [your specialties], and I thrive in collaborative environments.
+I'm a software engineer, developer advocate, and open-source contributor.
 
-## Skills
-- Programming Languages: [languages]
-- Frameworks: [frameworks]
-- Tools: [tools]
-- Other Skills: [any other skills]
+A lot of my work encompasses AI and backend engineering. I'm currently working on innovative projects and exploring new technologies.
 
-## Experience
-### Software Engineer at [Your Company]
-*[Duration]*
-- Developed and maintained [specific projects].
-- Collaborated with [teams/individuals] to improve [aspect of the work].
-- Successfully implemented [any specific accomplishments or technologies].
+I'm also learning frontend/UX engineering to enhance my design engineering skills and build better user interfaces.
 
-## Education
-- [Your Degree] in [Your Major] from [Your University]
+Check my written work on <a href="https://medium.com/@gideon">Medium</a>, <a href="https://www.everythingdevops.dev">Everything DevOps</a>, <a href="https://substack.com">Substack</a> and other platforms.
 
-## Contact
-- Email: [your.email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
+| <img align="center" src="https://github-stats-extended.vercel.app/api?username=Gideon-Dadey&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true" alt="Gideon-Dadey's GitHub stats" /> | <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gideon-Dadey&theme=transparent&langs_count=8&layout=compact&hide_border=true" alt="Gideon-Dadey's top languages" /> |
+| ------------- | ------------- |
+
+<p align="center">
+  <h2>Tech Stack</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,git,github,githubactions,bash,linux,ubuntu,vim,neovim,nginx,html,css,py,fastapi,javascript,typescript,express,docker,terraform,postgres,md,notion,vscode" />
+  </a>
+</p>
+
+<p align="center">
+  <h2>Contact Me</h2>
+<a href="https://www.linkedin.com/in/gideon-dadey-263128182/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/Cannymirah" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="50" width="50" /></a>
+<a href="mailto:gideondadey@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail"></a>
+</p>
