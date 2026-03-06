@@ -10,10 +10,10 @@ Currently pushing the boundaries of modern development, blending design thinking
 
 <div align="center">
   <a href="https://github.com/Gideon-Dadey">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gideon-Dadey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gideon's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gideon-Dadey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gideon's GitHub Stats" />
   </a>
   <a href="https://github.com/Gideon-Dadey">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gideon-Dadey&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gideon-Dadey&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
   </a>
 </div>
 
