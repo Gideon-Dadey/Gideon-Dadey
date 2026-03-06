@@ -1,25 +1,15 @@
-Hi, there! I'm **Gideon Dadey** 👋
+# Hi there! I'm **Gideon Dadey** 👋  
+I'm a full-stack developer, open-source contributor, and passionate software engineer. My work spans across cutting-edge technologies and robust backend systems. Currently, I'm crafting innovative solutions and pushing the boundaries of what's possible in modern development. I'm constantly expanding my horizons into frontend/UX engineering to blend design thinking with technical excellence and create intuitive digital experiences.
 
-I'm a software engineer, developer advocate, and open-source contributor.
+## GitHub Stats
+![Gideon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gideon-Dadey&show_icons=true&hide_title=true)
 
-A lot of my work encompasses AI and backend engineering. I'm currently working on innovative projects and exploring new technologies.
+## Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=FFFFFF) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
 
-I'm also learning frontend/UX engineering to enhance my design engineering skills and build better user interfaces.
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/gideon-dadey)  
+- [Twitter](https://twitter.com/gideon_dadey)  
+- [Gmail](mailto:gideon.dadey@example.com)  
 
-
-| <img align="center" src="https://github-stats-extended.vercel.app/api?username=Gideon-Dadey&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true" alt="Gideon-Dadey's GitHub stats" /> | <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gideon-Dadey&theme=transparent&langs_count=8&layout=compact&hide_border=true" alt="Gideon-Dadey's top languages" /> |
-| ------------- | ------------- |
-
-<p align="center">
-  <h2>Tech Stack</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,github,githubactions,bash,linux,ubuntu,vim,neovim,nginx,html,css,py,fastapi,javascript,typescript,express,docker,terraform,postgres,md,notion,vscode" />
-  </a>
-</p>
-
-<p align="center">
-  <h2>Contact Me</h2>
-<a href="https://www.linkedin.com/in/gideon-dadey-263128182/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/Cannymirah" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="50" width="50" /></a>
-<a href="mailto:gideondadey@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail"></a>
-</p>
+---
