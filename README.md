@@ -10,10 +10,16 @@ Currently pushing the boundaries of modern development, blending design thinking
 
 <div align="center">
   <a href="https://github.com/Gideon-Dadey">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gideon-Dadey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="Gideon's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gideon-Dadey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gideon's GitHub Stats" />
   </a>
   <a href="https://github.com/Gideon-Dadey">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gideon-Dadey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gideon-Dadey&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Gideon-Dadey">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gideon-Dadey&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
