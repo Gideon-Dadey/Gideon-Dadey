@@ -2,7 +2,7 @@
 
 I'm a software developer and passionate full-stack developer.
 
-My work spans across cutting-edge technologies and robust fronted and backend systems. Currently, I'm crafting innovative solutions and pushing the boundaries of what's possible in modern development. 
+My work spans across cutting-edge technologies and robust frontend and backend systems. Currently, I'm crafting innovative solutions and pushing the boundaries of what's possible in modern development. 
 ---
 
 | <img align="center" src="https://github-stats-extended.vercel.app/api?username=Gideon-Dadey&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Gideon's GitHub Stats" /> | <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gideon-Dadey&theme=transparent&langs_count=8&layout=compact&hide_border=true" alt="Most Used Languages" /> |
