@@ -1,61 +1,33 @@
-# Hi there! I'm Gideon Dadey 👋
+# Hi, there! I'm **Gideon Dadey** 👋
 
-A passionate **full-stack developer**, open-source contributor, and software engineer crafting innovative solutions with cutting-edge technologies and robust backend systems.
+I'm a software engineer, open-source contributor, and passionate full-stack developer.
 
-Currently pushing the boundaries of modern development, blending design thinking with technical excellence to create intuitive digital experiences. Expanding horizons into frontend/UX engineering.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Gideon-Dadey">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gideon-Dadey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gideon's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Gideon-Dadey">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gideon-Dadey&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Gideon-Dadey">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gideon-Dadey&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
+My work spans across cutting-edge technologies and robust backend systems. Currently, I'm crafting innovative solutions and pushing the boundaries of what's possible in modern development. I'm constantly expanding my horizons into frontend/UX engineering to blend design thinking with technical excellence and create intuitive digital experiences.
 
 ---
 
-## 💻 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,html,css,tailwind,vite,vue" alt="Tech Stack Row 1" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,docker,git,github,aws,linux,vscode,figma,postman" alt="Tech Stack Row 2" />
-</div>
-
----
-
-## 📬 Contact Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/your-handle">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-</div>
+| <img align="center" src="https://github-stats-extended.vercel.app/api?username=Gideon-Dadey&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true" alt="Gideon's GitHub Stats" /> | <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gideon-Dadey&theme=transparent&langs_count=8&layout=compact&hide_border=true" alt="Most Used Languages" /> |
+| ------------- | ------------- |
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gideon-Dadey&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <h2>Tech Stack</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,html,css,tailwind,vite,vue,mongodb,postgres,mysql,firebase,docker,git,github,githubactions,aws,linux,vscode,figma,postman" />
+  </a>
 </p>
+
+---
+
+<p align="center">
+  <h2>Contact Me</h2>
+<a href="https://www.linkedin.com/in/gideon-dadey-263128182" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
+<a href="https://x.com/cannymirah?s=11" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="50" width="50" /></a>
+<a href="mailto:gideondadey@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="50" width="50" /></a>
+</p>
+
+---
 
 <p align="center">
   <i>Always learning, always building, always growing 🚀</i>
