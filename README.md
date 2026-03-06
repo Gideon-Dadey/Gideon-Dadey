@@ -8,30 +8,49 @@ Currently pushing the boundaries of modern development, blending design thinking
 
 ## 📊 GitHub Stats
 
-[![Gideon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gideon-Dadey&show_icons=true&theme=dark)](https://github.com/Gideon-Dadey)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gideon-Dadey&layout=compact&theme=dark)](https://github.com/Gideon-Dadey)
+<div align="center">
+  <a href="https://github.com/Gideon-Dadey">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gideon-Dadey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="Gideon's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Gideon-Dadey">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gideon-Dadey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages" />
+  </a>
+</div>
 
 ---
 
 ## 💻 Tech Stack
 
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,html,css,tailwind,vite,vue" alt="Tech Stack Row 1" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,docker,git,github,aws,linux,vscode,figma,postman" alt="Tech Stack Row 2" />
 </div>
 
 ---
 
-## 📬 Get In Touch
+## 📬 Contact Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-handle)
-- 📧 [Gmail](mailto:your-email@gmail.com)
+<div align="center">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/your-handle">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+</div>
 
 ---
 
 <p align="center">
-  <i>Always learning, always building, always growing</i>
+  <img src="https://komarev.com/ghpvc/?username=Gideon-Dadey&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>Always learning, always building, always growing 🚀</i>
 </p>
