@@ -6,7 +6,6 @@ A lot of my work encompasses AI and backend engineering. I'm currently working o
 
 I'm also learning frontend/UX engineering to enhance my design engineering skills and build better user interfaces.
 
-Check my written work on <a href="https://medium.com/@gideon">Medium</a>, <a href="https://www.everythingdevops.dev">Everything DevOps</a>, <a href="https://substack.com">Substack</a> and other platforms.
 
 | <img align="center" src="https://github-stats-extended.vercel.app/api?username=Gideon-Dadey&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true" alt="Gideon-Dadey's GitHub stats" /> | <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gideon-Dadey&theme=transparent&langs_count=8&layout=compact&hide_border=true" alt="Gideon-Dadey's top languages" /> |
 | ------------- | ------------- |
