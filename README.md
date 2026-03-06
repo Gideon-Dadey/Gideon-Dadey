@@ -6,7 +6,7 @@ My work spans across cutting-edge technologies and robust backend systems. Curre
 
 ---
 
-| <img align="center" src="https://github-stats-extended.vercel.app/api?username=Gideon-Dadey&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true" alt="Gideon's GitHub Stats" /> | <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gideon-Dadey&theme=transparent&langs_count=8&layout=compact&hide_border=true" alt="Most Used Languages" /> |
+| <img align="center" src="https://github-stats-extended.vercel.app/api?username=Gideon-Dadey&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Gideon's GitHub Stats" /> | <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gideon-Dadey&theme=transparent&langs_count=8&layout=compact&hide_border=true" alt="Most Used Languages" /> |
 | ------------- | ------------- |
 
 ---
