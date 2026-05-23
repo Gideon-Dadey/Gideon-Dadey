@@ -32,7 +32,7 @@ I care about systems where reliability matters  permissions, audit trails, payme
 
 ### Web
 Next.js · React · TypeScript  
-Dashboards · PWAs · real-time UI  
+Dashboards · real-time UI  
 SaaS & healthcare portals  
 
 </td>
@@ -41,7 +41,7 @@ SaaS & healthcare portals
 ### Mobile
 React Native · cross-platform  
 Firebase · API-driven apps  
-App-store-ready delivery  
+ 
 
 </td>
 </tr>
