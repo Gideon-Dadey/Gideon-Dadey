@@ -118,13 +118,6 @@ End-to-end platform for **patients**, **providers**, and **labs**: registration,
 
 </div>
 
-<!-- Contribution graph: full width, industry-standard -->
-<img
-  width="100%"
-  alt="Contribution activity graph"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Gideon-Dadey&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=FFFFFF&area=true&custom_title=Contribution%20Activity"
-/>
-
 <br/>
 
 ## Tech stack
