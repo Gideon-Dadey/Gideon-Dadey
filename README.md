@@ -18,9 +18,9 @@
 
 ## About me
 
-I'm **Gideon Dadey**  a full-stack engineer who ships **web applications** and **mobile apps** from idea to production.
+I'm Gideon Dadey a full-stack engineer who ships web applications and mobile apps from idea to production.
 
-I work across the full stack: **React  Next.js  TypeScript** on the web, **React Native** on mobile, **Node.js Express** APIs, **MongoDB** (and SQL where it fits), plus **Firebase** for auth and real-time patterns. On the cloud side I deploy and operate on **AWS** (EC2, S3-style object storage), **Google Cloud**, Docker, Linux, and **GitHub Actions** with automated deploy scripts.
+I work across the full stack: React  Next.js  TypeScript on the web, React Native on mobile, Node.js Express APIs, MongoDB (and SQL where it fits), plus Firebase for auth and real-time patterns. On the cloud side I deploy and operate on AWS EC2, S3 Bucket, Google Cloud, Docker, Linux, and GitHub Actions with automated deploy scripts.
 
 ## GitHub activity
 
