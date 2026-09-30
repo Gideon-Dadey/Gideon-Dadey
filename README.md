@@ -12,8 +12,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gideondadey@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cannymirah)
 
-<img src="https://komarev.com/ghpvc/?username=Gideon-Dadey&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" />
-
 </div>
 
 ---
