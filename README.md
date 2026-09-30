@@ -26,9 +26,10 @@ I work across the full stack: React, Next.js, TypeScript on the web, React Nativ
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Gideon-Dadey&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Gideon-Dadey&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" alt="GitHub stats" />
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gideon-Dadey&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top languages" />
 
+</div>
 
 ## Tech stack
 
@@ -64,6 +65,5 @@ I work across the full stack: React, Next.js, TypeScript on the web, React Nativ
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=80&section=footer&reversal=true" alt="Footer" />
-
 
 </div>
