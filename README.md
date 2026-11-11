@@ -13,6 +13,11 @@ Lead engineering on a production health platform: prepaid lab orders, clinician 
 
 `TypeScript` · `Next.js` · `Node` · `AWS` · `mobile money`
 
+### [French Master](https://thefrenchmastergh.com): online language learning
+Production learning product for French courses, conversation, and exam prep. Focused on a clean student experience and content that scales beyond a marketing site.
+
+`JavaScript` · `web` · live at thefrenchmastergh.com
+
 ### [SusuFlow](https://github.com/Gideon-Dadey/SusuFlow): digital susu operating system
 Multi-tenant system for savings companies, field collectors, and customers. Deposits go through Hubtel and Paystack so funds never sit with collectors; every confirmed payment posts to a double-entry ledger with a full audit trail. Web portals plus an Expo client for the field.
 
@@ -22,11 +27,6 @@ Multi-tenant system for savings companies, field collectors, and customers. Depo
 Platform for African students to find scholarships, internships, and jobs, track applications, and work from practical guides. Built as a full SaaS stack with auth, moderation, and subscription billing.
 
 `React` · `TypeScript` · `Express` · `MongoDB` · `Stripe`
-
-### [French Master](https://thefrenchmastergh.com): online language learning
-Production learning product for French courses, conversation, and exam prep. Focused on a clean student experience and content that scales beyond a marketing site.
-
-`JavaScript` · `web` · live at thefrenchmastergh.com
 
 ### [ReLoop](https://github.com/Gideon-Dadey/ReLoop-Tracking-App): circular economy tracking
 Mobile + NestJS platform for reusable packaging: QR loop tracking, impact metrics, offline scan queues, and campaign evaluation aligned to SDG 12 research goals.
